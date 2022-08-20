@@ -1,0 +1,8 @@
+{
+  "ar": [
+    "app_name",
+    "homeLabel",
+    "restaurantAvailable",
+    "profileLabel"
+  ]
+}
